@@ -1,2 +1,3 @@
-# iOS-initial-swift-project
+# iOS initial swift project  
+
 Initial project for the iOS developers team
